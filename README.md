@@ -23,6 +23,7 @@ Sistema moderno para controle de estoque, compras e vendas desenvolvido em Larav
 - Tabela de formas de pagamento
 - Histórico de vendas
 - Interface moderna com dark mode
+- Exportação detalhada em xlsx
 - Laravel 12
 - TailwindCSS
 - MySQL
